@@ -1,5 +1,15 @@
 <h1 align = "center" >Jorgen Baertsch | Full-stack Developer </h1>
-https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white
+<div id="badges">
+  <a href="https://www.linkedin.com/in/jorgen-baertsch-8673b2142/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:jpbaertsch@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 <!--
 **JpBaer/JpBaer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
