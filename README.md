@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 <p align="center"> 
   <a href="https://github.com/jpbaer/github-readme-stats">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Meljska-Fawn&theme=dark&show_icons=true" alt="Melissa's GitHub stats"/>
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=jpbaer&theme=dark&show_icons=true" alt="Melissa's GitHub stats"/>
   </a>
   <a href="https://github.com/jpbaer/github-readme-stats">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meljska-Fawn&layout=compact&theme=dark" alt="Top Langs"/>
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpbaer&layout=compact&theme=dark" alt="Top Langs"/>
   </a>
 </p>
