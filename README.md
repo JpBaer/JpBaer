@@ -1,4 +1,4 @@
-<h1 align = "center" >Jorgen Baertsch || Full-stack Developer </h1>
+<h1 align = "center" >Jorgen Baertsch | Full-stack Developer </h1>
 
 
 <!--
