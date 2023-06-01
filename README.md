@@ -21,7 +21,7 @@
 
 <p align="center"> 
   <a href="https://github.com/jpbaer/github-readme-stats">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=jpbaer&theme=dark&show_icons=true" alt="Melissa's GitHub stats"/>
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=jpbaer&theme=dark&show_icons=true" alt="Jorgen's Github stats"/>
   </a>
   <a href="https://github.com/jpbaer/github-readme-stats">
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpbaer&layout=compact&theme=dark" alt="Top Langs"/>
