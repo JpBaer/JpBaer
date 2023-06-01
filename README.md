@@ -1,5 +1,5 @@
 <h1 align = "center" >Jorgen Baertsch | Full-stack Developer </h1>
-
+https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white
 
 <!--
 **JpBaer/JpBaer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
