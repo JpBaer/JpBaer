@@ -6,8 +6,8 @@
   <a href="mailto:jpbaertsch@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Portfolio?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://jpbaer.github.io/React-Portfolio/">
+    <img src="https://img.shields.io/badge/Visit-My%20Portfolio-green" alt="Portfolio Badge"/>
   </a>
 </div>
 
