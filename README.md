@@ -14,6 +14,9 @@
   </a>
 </div>
 
+
+<h2> About Me </h2>
+<hr>
 <!--
 **JpBaer/JpBaer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
