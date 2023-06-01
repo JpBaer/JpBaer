@@ -16,7 +16,7 @@
 
 
 <h2 align = "center"> About Me </h2>
-
+<p align = "center"> Hi there 👋! I'm Jorgen, a full stack developer with a background in aerospace and audio engineering.  I'm the type of person who goes all in when I get excited about something and I'm always brainstorming about the next big project.  Over the course of the last 6 months I've been refining my development skills through a Bootcamp with University of Washington where our main focus is Javascript and the MERN stack.  I'm always playing with new concepts and languages and have recently been playing with python and C#.  Check out my repositories and feel free to send me a message!  </p>
 <!--
 **JpBaer/JpBaer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
