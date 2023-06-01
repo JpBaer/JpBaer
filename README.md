@@ -15,8 +15,8 @@
 </div>
 
 
-<h2> About Me </h2>
-<hr></hr>
+<h2 align = "center"> About Me </h2>
+
 <!--
 **JpBaer/JpBaer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
