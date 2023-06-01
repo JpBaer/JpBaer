@@ -1,4 +1,5 @@
 ### Hi there 👋
+### I'm Jorgen Baertsch a Full Stack Developer with a background in Aerospace and Audio Engineering
 
 <!--
 **JpBaer/JpBaer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
