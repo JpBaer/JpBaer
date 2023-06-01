@@ -1,5 +1,5 @@
-<h1 align = "center" >My name is Jorgen Baertsch </h1>
-<h3 align = "center"> I'm a full stack developer with a background in aerospace and audio engineering</h3>
+<h1 align = "center" >Jorgen Baertsch || Full-stack Developer </h1>
+
 
 <!--
 **JpBaer/JpBaer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
