@@ -1,4 +1,4 @@
-<h1 align = "center" >I'm Jorgen Baertsch </h1>
+<h1 align = "center" >My name iss Jorgen Baertsch </h1>
 <h3 align = "center"> I'm a full stack developer with a background in aerospace and audio engineering</h3>
 
 <!--
