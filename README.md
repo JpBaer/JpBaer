@@ -18,6 +18,19 @@
 <h2 align = "center"> About Me </h2>
 <p align = "center"> Hi there 👋! I'm Jorgen, a full stack developer with a background in aerospace and audio engineering.  I'm the type of person who goes all in when I get excited about something and I'm always brainstorming about the next big project.  Over the course of the last 6 months I've been refining my development skills through a Bootcamp with University of Washington where our main focus is Javascript and the MERN stack.  I'm always playing with new concepts and languages and have recently been having fun with python and C#.  Check out my repositories and feel free to send me a message!  </p>
 
+<h2 align="center">Skills</h2>
+
+<p align="center">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label="/>
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label="/>
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label="/>
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label="/>
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label="/>
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label="/>
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label="/>
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label="/>
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Heroku&color=430098&logo=Heroku&logoColor=FFFFFF&label="/>
+</p>
 
 <p align="center"> 
   <a href="https://github.com/jpbaer/github-readme-stats">
