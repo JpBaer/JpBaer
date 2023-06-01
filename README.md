@@ -40,3 +40,7 @@ Here are some ideas to get you started:
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpbaer&layout=compact&theme=dark" alt="Top Langs"/>
   </a>
 </p>
+
+<div align="center">
+  <img src="https://github.com/Goobber33/Goobber33/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</div>
